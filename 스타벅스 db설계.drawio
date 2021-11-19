@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T08:47:25.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="T3ZaNMmewRxs_s882zHY" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T08:53:01.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ic4wtLRtujx-QKt-ipRJ" version="15.8.2" type="github">
   <diagram id="W9ckOoz4WOT1ZEHt1hy_" name="Page-1">
     <mxGraphModel dx="2622" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="600" y="-380" width="600" height="270" as="geometry" />
         </mxCell>
         <mxCell id="fq3Up7ErpHEwBkzviiwg-31" value="상품(기타)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="410" y="-532.5" width="160" height="125" as="geometry" />
+          <mxGeometry x="410" y="-535" width="160" height="125" as="geometry" />
         </mxCell>
         <mxCell id="fq3Up7ErpHEwBkzviiwg-32" value="상품ID&#xa;상품 명&#xa;상품 정보&#xa;원산지&#xa;가격" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="fq3Up7ErpHEwBkzviiwg-31" vertex="1">
           <mxGeometry y="30" width="160" height="95" as="geometry" />
