@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T08:53:01.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ic4wtLRtujx-QKt-ipRJ" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T10:13:09.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GDQIFFvwxAJyAxtuldvu" version="15.8.2" type="github">
   <diagram id="W9ckOoz4WOT1ZEHt1hy_" name="Page-1">
-    <mxGraphModel dx="2622" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2862" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fq3Up7ErpHEwBkzviiwg-22" value="고객" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="670" y="-810" width="160" height="210" as="geometry" />
+          <mxGeometry x="670" y="-865" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="fq3Up7ErpHEwBkzviiwg-23" value="고객ID&#xa;성명&#xa;닉네임&#xa;성별&#xa;생년월일&#xa;나이&#xa;전화번호&#xa;주소&#xa;알레르기 유발 요인&#xa;결제 정보&#xa;위치 정보&#xa;주변 매장&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="fq3Up7ErpHEwBkzviiwg-22" vertex="1">
           <mxGeometry y="30" width="160" height="180" as="geometry" />
@@ -17,16 +17,13 @@
           <mxGeometry y="30" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fq3Up7ErpHEwBkzviiwg-29" value="텀블러같은 상품&lt;br&gt;영양정보 테이블&lt;br&gt;퍼스널옵션&lt;br&gt;알레르기 유발 요인&lt;br&gt;매장마다 다른 점, 퍼스널 옵션&lt;br&gt;서비스-이벤트, 알레르기 유발요인" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-380" width="600" height="270" as="geometry" />
+          <mxGeometry x="560" y="-70" width="600" height="270" as="geometry" />
         </mxCell>
         <mxCell id="fq3Up7ErpHEwBkzviiwg-31" value="상품(기타)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="410" y="-535" width="160" height="125" as="geometry" />
         </mxCell>
         <mxCell id="fq3Up7ErpHEwBkzviiwg-32" value="상품ID&#xa;상품 명&#xa;상품 정보&#xa;원산지&#xa;가격" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="fq3Up7ErpHEwBkzviiwg-31" vertex="1">
           <mxGeometry y="30" width="160" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="YSA9-jx7J6ZgSfu3KvQz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="fq3Up7ErpHEwBkzviiwg-35" target="fq3Up7ErpHEwBkzviiwg-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fq3Up7ErpHEwBkzviiwg-35" value="영양정보" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="-320" width="160" height="180" as="geometry" />
@@ -47,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uZhMAtmSy9ZaWpm4lD-0-9" value="이벤트" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="950" y="-820" width="160" height="270" as="geometry" />
+          <mxGeometry x="950" y="-1270" width="160" height="270" as="geometry" />
         </mxCell>
         <mxCell id="uZhMAtmSy9ZaWpm4lD-0-10" value="청구할인&#xa;쿠폰 할인" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="uZhMAtmSy9ZaWpm4lD-0-9" vertex="1">
           <mxGeometry y="30" width="160" height="240" as="geometry" />
@@ -85,17 +82,8 @@
         <mxCell id="YSA9-jx7J6ZgSfu3KvQz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="fq3Up7ErpHEwBkzviiwg-23" target="dtZZyart_YpHSdSew_Np-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="moNPyxHek1df-f0fX98K-1" value="예진(1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="moNPyxHek1df-f0fX98K-2" value="근우(2)(3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="moNPyxHek1df-f0fX98K-4" value="태후(4)(5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="moNPyxHek1df-f0fX98K-5" value="가영(6)(7)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-680" width="120" height="60" as="geometry" />
+        <mxCell id="moNPyxHek1df-f0fX98K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="fq3Up7ErpHEwBkzviiwg-26" target="fq3Up7ErpHEwBkzviiwg-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
