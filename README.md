@@ -13,5 +13,5 @@
 - 상품별 리뷰 달기 기능
 - 기념일 이벤트 기능
 
-#### E-R Diagram
+#### 🥤 E-R Diagram
 ![image](https://user-images.githubusercontent.com/82714785/155636664-420d2ba0-c02b-4b13-a80b-5ff656351ed0.png)
